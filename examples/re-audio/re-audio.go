@@ -3,7 +3,7 @@ package main
 
 import (
 	"fmt"
-	"examples/reaudiong"
+	"examples/re-audio-ng"
 )
 
 func main() {

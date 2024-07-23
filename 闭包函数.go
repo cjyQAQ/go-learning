@@ -11,6 +11,7 @@ import "fmt"
 
 
 func main(){
+	
 	f := A()
 	fmt.Println(f(1))       //1
 	fmt.Println(f(20))      //21

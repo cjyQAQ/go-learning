@@ -1,9 +1,9 @@
 package ae
-import "fmt"
+// import "fmt"
 
-func insertinto() {
-	fmt.Println("ae-text insertinto")
-}
+// func insertinto() {
+// 	fmt.Println("ae-text insertinto")
+// }
 
 
 func InsertIntoRedis() {
